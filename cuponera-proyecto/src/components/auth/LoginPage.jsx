@@ -27,4 +27,4 @@ const LoginPage = ({ setUser }) => {
     );
 };
 
-export default LoginPage
+export default LoginPage;
